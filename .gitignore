@@ -1,0 +1,4 @@
+database/config
+venv
+.python-version
+.DS_store
