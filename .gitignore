@@ -2,3 +2,5 @@ database/config
 venv
 .python-version
 .DS_store
+config.ini
+__pycache__/
